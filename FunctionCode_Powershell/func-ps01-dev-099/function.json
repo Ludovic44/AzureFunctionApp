@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myInputBlob",
+      "path": "blob-kuhn-input/{name}",
+      "connection": "stakuhnfunctiondev001_STORAGE",
+      "direction": "in",
+      "type": "blobTrigger"
+    },
+    {
+      "name": "myOutputBlob",
+      "type": "blob",
+      "path": "blob-kuhn-output/copy/{trigger}",
+      "connection": "stakuhnfunctiondev001_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
