@@ -8,12 +8,14 @@
 1. [Sources](https://github.com/Ludovic44/AzureFunctionApp/tree/main#sources)
 
 
+
 ## Public
 
 - [x] Niveau 100 - Débutant
 - [x] Niveau 200 - Junior
 - [ ] Niveau 300 - Confirmé
 - [ ] Niveau 400 - Expert
+
 
 
 ## Contenu du repository
@@ -56,7 +58,6 @@ Le répertoire [FunctionCode_Python](https://github.com/Ludovic44/AzureFunctionA
 
 
 ## Sources
-En complément, vouz trouverez des informations sur Azure Functions sur les sites ci-dessous :
+En complément, vous trouverez des informations sur Azure Functions sur les sites ci-dessous :
 - [azurerm_function_app_function](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/function_app_function)
 - [Terraform: Deploy Azure Function App with Consumption Plan](https://build5nines.com/terraform-deploy-azure-function-app-with-consumption-plan/)
-- 
