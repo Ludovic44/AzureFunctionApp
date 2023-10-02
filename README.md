@@ -20,20 +20,20 @@
 
 Ce repository contient les scripts IaC Terraform ainsi que le code vous permettant de créer votre première Function App et son code associé.
 Qu'il sagisse
-- d'un Consumption plan ou
-- d'un Premium plan,
+* d'un Consumption plan ou
+* d'un Premium plan,
  
 que ce soit un App Service plan
-- Linux ou
-- Windows,
+* Linux ou
+* Windows,
 
 que votre runtime soit
-- Powershell core ou 
-- Python,
+* Powershell core ou 
+* Python,
 
-déclencé sur un trigeer
-- HTTP ou
-- Blob storage
+déclenché sur un trigeer
+* HTTP ou
+* Blob storage
 
 tout y est.
 
@@ -57,4 +57,6 @@ Le répertoire [FunctionCode_Python](https://github.com/Ludovic44/AzureFunctionA
 
 ## Sources
 En complément, vouz trouverez des informations sur Azure Functions sur les sites ci-dessous :
--
+- [azurerm_function_app_function](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/function_app_function)
+- [Terraform: Deploy Azure Function App with Consumption Plan](https://build5nines.com/terraform-deploy-azure-function-app-with-consumption-plan/)
+- 
