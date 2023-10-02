@@ -20,8 +20,8 @@
 
 Ce repository contient les scripts IaC Terraform ainsi que le code vous permettant de créer votre première Function App et son code associé.
 Qu'il sagisse
-- d'un Consumption plan ou
-- d'un Premium plan,
++ d'un Consumption plan ou
++ d'un Premium plan,
 que ce soit un App Service plan
 - Linux ou
 - Windows,
