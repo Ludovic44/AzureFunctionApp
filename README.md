@@ -20,7 +20,7 @@
 
 Ce repository contient les scripts IaC Terraform ainsi que le code vous permettant de créer votre première Function App et son code associé.
 Qu'il sagisse
-+ d'un Consumption plan ou
+- d'un Consumption plan ou
 + d'un Premium plan,
 que ce soit un App Service plan
 - Linux ou
@@ -32,6 +32,11 @@ déclencé sutr un trigeer
 - HTTP ou
 - Blob storage
 tout y est.
+
+
+- ljljlkj
++ llkjlkj
+* ffff
 
 ### Terraform_ConsumptionPlan_Windows
 Le répertoire [Terraform_ConsumptionPlan_Windows](https://github.com/Ludovic44/AzureFunctionApp/tree/main/Terraform_ConsumptionPlan_Windows) contient les script Terraform vous permettant de créer une Azure Function App sur un Consumption plan Windows.
